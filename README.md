@@ -20,7 +20,6 @@
 🎮 Warframe                         🕘 321 hrs 22 mins
 🎮 Eternal Card Game                🕘 273 hrs 1 mins
 🎮 Terraria                         🕘 220 hrs 10 mins
-🎮 Idle Champions of the Forgotten Realms 🕘 216 hrs 31 mins
 ```
 <br>
 
