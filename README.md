@@ -1,6 +1,5 @@
 ### Hi there 👋
-<br>
-</br>
+
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rodrigochapeta/rodrigochapeta/main/code.gif" width="360px"/>
 
 ### 🧐 About Me:
@@ -155,7 +154,7 @@
 
 ## 🤝🏻 Connect with Me 
 <p align="center">
- <!-- <a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a> ->
+ <!-- <a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a> -->
 <a href="https://www.linkedin.com/in/rodrigo-chapeta-48b04855/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@rodrigochapeta-blue?style=flat&logo=linkedin"></a>
 <a href="https://stackoverflow.com/users/8807220/rodrigo-chapeta?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Rodrigo%20Chapeta-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:rodrigochapeta@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rodrigochapeta@hotmail.com-blue?style=flat&logo=outlook"></a>
