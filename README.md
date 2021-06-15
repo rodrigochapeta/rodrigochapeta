@@ -14,14 +14,6 @@
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels.
 - 👾 &nbsp; May also game a bit!
 
-#### <a href="https://gist.github.com/eec431c1b6b2670dd5ad0c2014e02361" target="_blank">🎮 Steam playtime leaderboard</a>
-```text
-⚔️ Dota 2                           🕘 931 hrs 42 mins
-🎮 Warframe                         🕘 321 hrs 22 mins
-🎮 Eternal Card Game                🕘 273 hrs 1 mins
-🎮 Terraria                         🕘 220 hrs 10 mins
-```
-<br>
 
 ### 🏆 Github Stats
 
@@ -151,6 +143,15 @@
 - [ ] Redis
 - [ ] More serverless
 - [ ] Azure and AWS Certifications
+
+#### <a href="https://gist.github.com/eec431c1b6b2670dd5ad0c2014e02361" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+⚔️ Dota 2                           🕘 931 hrs 42 mins
+🎮 Warframe                         🕘 321 hrs 22 mins
+🎮 Eternal Card Game                🕘 273 hrs 1 mins
+🎮 Terraria                         🕘 220 hrs 10 mins
+```
+<br>
 
 ## 🤝🏻 Connect with Me 
 <p align="center">
