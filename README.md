@@ -7,7 +7,7 @@
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigochapeta&theme=dark" width="48%" >
 
 <p align="center"> 
-  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" alt="Visitor Count" align="center" />
+  <img src="https://profile-counter.glitch.me/rodrigochapeta/count.svg" alt="Visitor Count" align="center" />
 </p>
 
 ## ⚡ Technologies
