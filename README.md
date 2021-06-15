@@ -3,6 +3,13 @@
 
 ### 🏆 Github Stats
 
+<a href='https://github.com/rahul-jha98/github-stats-transparent'>
+  
+![Stats Overview](https://raw.githubusercontent.com/rodrigochapeta/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/rodrigochapeta/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
 <img  src="https://github-readme-stats.vercel.app/api?username=rodrigochapeta&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
 <img  src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigochapeta&theme=dark" width="48%" >
 
