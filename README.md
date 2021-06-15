@@ -1,5 +1,20 @@
 ### Hi there 👋
+<br>
+</br>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rodrigochapeta/rodrigochapeta/main/code.gif" width="360px"/>
 
+### 🧐 About Me:
+
+- 🔭 &nbsp; I’m currently working on **Custom schematics for Angular**
+- 🤝 &nbsp; I’m looking to collaborate on open libraries for **.Net Core or Angular**
+- 🌱 &nbsp; I’m currently learning **Blazor**; 
+- 👨🏻‍💻 &nbsp; Try to learn more about **Serverless**
+- 💬 &nbsp; Ask me about anything tech related, I am happy to help;
+- 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rodrigo-chapeta-48b04855/)
+- 📚 &nbsp; When I am free, I read fantasy and fiction novels.
+- 👾 &nbsp; May also game a bit!
+https://gist.githubusercontent.com/rodrigochapeta/eec431c1b6b2670dd5ad0c2014e02361/raw/a39e9065f4dc0dfc0e7cd2ebfc1e365fd7e7a841/%25F0%259F%258E%25AE%2520Steam%2520playtime%2520leaderboard
+<br>
 
 ### 🏆 Github Stats
 
@@ -132,6 +147,7 @@
 
 ## 🤝🏻 Connect with Me 
 <p align="center">
+ <!-- <a href="https://www.anandmainali.com.np" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-www.anandmainali.com.np-blue?style=flat&logo=google-chrome"></a> ->
 <a href="https://www.linkedin.com/in/rodrigo-chapeta-48b04855/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@rodrigochapeta-blue?style=flat&logo=linkedin"></a>
 <a href="https://stackoverflow.com/users/8807220/rodrigo-chapeta?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Rodrigo%20Chapeta-blue?style=flat&logo=stackoverflow"></a>
 <a href="mailto:rodrigochapeta@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rodrigochapeta@hotmail.com-blue?style=flat&logo=outlook"></a>
