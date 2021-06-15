@@ -13,7 +13,15 @@
 - 📫 &nbsp; Feel free to ping me on [LinkedIn](https://www.linkedin.com/in/rodrigo-chapeta-48b04855/)
 - 📚 &nbsp; When I am free, I read fantasy and fiction novels.
 - 👾 &nbsp; May also game a bit!
-https://gist.githubusercontent.com/rodrigochapeta/eec431c1b6b2670dd5ad0c2014e02361/raw/a39e9065f4dc0dfc0e7cd2ebfc1e365fd7e7a841/%25F0%259F%258E%25AE%2520Steam%2520playtime%2520leaderboard
+
+#### <a href="https://gist.github.com/eec431c1b6b2670dd5ad0c2014e02361" target="_blank">🎮 Steam playtime leaderboard</a>
+```text
+⚔️ Dota 2                           🕘 931 hrs 42 mins
+🎮 Warframe                         🕘 321 hrs 22 mins
+🎮 Eternal Card Game                🕘 273 hrs 1 mins
+🎮 Terraria                         🕘 220 hrs 10 mins
+🎮 Idle Champions of the Forgotten Realms 🕘 216 hrs 31 mins
+```
 <br>
 
 ### 🏆 Github Stats
