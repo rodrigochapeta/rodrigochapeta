@@ -134,5 +134,5 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/rodrigo-chapeta-48b04855/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@rodrigochapeta-blue?style=flat&logo=linkedin"></a>
 <a href="https://stackoverflow.com/users/8807220/rodrigo-chapeta?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Rodrigo%20Chapeta-blue?style=flat&logo=stackoverflow"></a>
-<a href="mailto:rodrigochapeta@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rodrigochapeta@hotmail.com-blue?style=flat&logo=hotmail"></a>
+<a href="mailto:rodrigochapeta@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rodrigochapeta@hotmail.com-blue?style=flat&logo=outlook"></a>
 </p>
