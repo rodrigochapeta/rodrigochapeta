@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+
+### 🏆 Github Stats
+
+<img  src="https://github-readme-stats.vercel.app/api?username=rodrigochapeta&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=rodrigochapeta&theme=dark" width="48%" >
+
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/jatin2003/count.svg" alt="Visitor Count" align="center" />
+</p>
+
 ## ⚡ Technologies
 
 ### 🌐  Languages
