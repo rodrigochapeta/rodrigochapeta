@@ -130,9 +130,9 @@
 - [ ] More serverless
 - [ ] Azure and AWS Certifications
 
-## Social
-<img alt="Reddit" src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-<img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-<img alt="Instagram" src="https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/>
-<img alt="Skype" src="https://img.shields.io/badge/<handle>-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white"/>
-<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+## 🤝🏻 Connect with Me 
+<p align="center">
+<a href="https://www.linkedin.com/in/rodrigo-chapeta-48b04855/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-@rodrigochapeta-blue?style=flat&logo=linkedin"></a>
+<a href="https://stackoverflow.com/users/8807220/rodrigo-chapeta?tab=profile" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stackoverflow-Rodrigo%20Chapeta-blue?style=flat&logo=stackoverflow"></a>
+<a href="mailto:rodrigochapeta@hotmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-rodrigochapeta@hotmail.com-blue?style=flat&logo=hotmail"></a>
+</p>
