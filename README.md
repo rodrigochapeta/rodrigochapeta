@@ -59,8 +59,6 @@
   <img alt="RxJS" src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white"/>
   <img alt="SASS" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
-  <img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
 </p>
 
 ### 📇 Databases
@@ -143,13 +141,6 @@
 - [ ] More serverless
 - [ ] Azure and AWS Certifications
 
-#### <a href="https://gist.github.com/eec431c1b6b2670dd5ad0c2014e02361" target="_blank">🎮 Steam playtime leaderboard</a>
-```text
-⚔️ Dota 2                           🕘 931 hrs 42 mins
-🎮 Warframe                         🕘 321 hrs 22 mins
-🎮 Eternal Card Game                🕘 273 hrs 1 mins
-🎮 Terraria                         🕘 220 hrs 10 mins
-```
 <br>
 
 ## 🤝🏻 Connect with Me 
