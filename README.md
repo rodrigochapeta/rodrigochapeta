@@ -142,7 +142,7 @@
 - [ ] More serverless
 - [ ] Azure and AWS Certifications
 
-<br>
+
 ## Principles to follow
 - TDD
 - SOLID
@@ -150,7 +150,7 @@
 - DRY
 - YAGNI
 - Law of Demeter
-<br>
+
 
 ## 🤝🏻 Connect with Me 
 <p align="center">
