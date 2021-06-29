@@ -143,7 +143,7 @@
 - [ ] Azure and AWS Certifications
 
 
-## Principles to follow
+## 📜	 Principles to follow
 - TDD
 - SOLID
 - KISS
